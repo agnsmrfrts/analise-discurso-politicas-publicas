@@ -1,4 +1,6 @@
-# Análise de Discurso e Mineração de Texto em Políticas Públicas
+# Análise de Discurso e Mineração de Texto em Políticas Públicas 
+
+UTILIZADO PARA QUALIFICAÇÃO DE DISSERTAÇÃO DE MESTRADO - os códigos foram reformulados para melhor atender as demandas do trabalho final e estão disponibilizados em outro repositório do Github.
 
 Este repositório contém o pipeline de análise de dados desenvolvido em **R** para monitorar a evolução e o enquadramento (*framing*) de políticas socioambientais no Brasil. 
 
